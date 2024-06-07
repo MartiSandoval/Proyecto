@@ -14,7 +14,7 @@ int main(void)
     int a = 1;
     int b = 4;
     printf("%d", a + b);
-    printf("odio esto\n");
+    printf("ñ\n");
 
     printf(dato.data);
     return 0;

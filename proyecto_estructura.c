@@ -6,6 +6,11 @@ typedef struct
     int data;
 } tipoDato;
 
+void hola()
+{
+    printf("hola :) ");
+}
+
 int main(void)
 {
     tipoDato dato;
@@ -19,5 +24,7 @@ int main(void)
     printf("%i", dato.data);
     printf("odio esto\n");
     printf(a);
+
+    hola();
     return 0;
 }

@@ -17,5 +17,7 @@ int main(void)
     printf("ñ\n");
 
     printf("%i", dato.data);
+    printf("odio esto\n");
+    printf(a);
     return 0;
 }

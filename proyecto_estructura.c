@@ -7,5 +7,6 @@ int main(void)
     int b = 4;
     printf("%d", a + b);
     printf("odio esto\n");
+    printf(a);
     return 0;
 }

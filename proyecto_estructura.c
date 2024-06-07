@@ -16,6 +16,6 @@ int main(void)
     printf("%d", a + b);
     printf("ñ\n");
 
-    printf(dato.data);
+    printf("%i", dato.data);
     return 0;
 }

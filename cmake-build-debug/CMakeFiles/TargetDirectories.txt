@@ -1,0 +1,3 @@
+C:/Users/marti/OneDrive/Escritorio/códigos/Proyecto_enClion/cmake-build-debug/CMakeFiles/Proyecto_enClion.dir
+C:/Users/marti/OneDrive/Escritorio/códigos/Proyecto_enClion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marti/OneDrive/Escritorio/códigos/Proyecto_enClion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
